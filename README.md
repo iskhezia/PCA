@@ -8,10 +8,10 @@ No Índice de Liberdade Econômica (HERINTAGE, 2024), a PCA Tradicional reteve 6
 
 <img width="800" height="450" alt="trad_vetores_pt" src="https://github.com/user-attachments/assets/8be0f717-175a-41e0-bfe2-e3fd50d34c59" />
 
-No Índice de Felicidade (ONU, 2024), reteve 68,43% da informação, destacando variáveis de maior impacto.
+No Índice de Felicidade (ONU, 2024), a PCA reteve 68,43% da informação, destacando variáveis de maior impacto.
 <img width="750" height="400" alt="trad_happy_pt" src="https://github.com/user-attachments/assets/d719ffb2-f224-4129-ac0c-8a29676e00ae" />
 
-A PCA Logística (B) preservou a estrutura dos dados e possibilitou boa classificação binária, mas com maior perda de informação devido à tranformação de contínua para binária.
+Utilizando o mesmo bando de dados, a PCA Logística (B) preservou a estrutura dos dados e possibilitou boa classificação binária, mas com maior perda de informação devido à tranformação de contínua para binária. O ARI testifica a similaridade do agrupamento em relação a PCA Tradicional
 <img width="1380" height="1224" alt="comparacao_logistica_tradicional 2" src="https://github.com/user-attachments/assets/8860d31c-a7b5-4f88-828b-c013de4823b3" />
 
 # Conclusão
